@@ -1,6 +1,7 @@
 {
   "packs": [
-    "BuddyBear.json"
+    "BuddyBear.json",
+    "LINE_NieR_Automata_2B.json"
   ],
   "homeserver_url": "https://redpill.canony.xyz"
 }
